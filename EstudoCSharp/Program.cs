@@ -22,7 +22,6 @@ namespace Program
                     Console.WriteLine("desligado");
                 else
                     Console.WriteLine("Numero inesperado");
-
                 while (On == true && times < 3)
                 {
                     Console.WriteLine("ligado");
@@ -30,11 +29,7 @@ namespace Program
                 }
                 Console.WriteLine("digite 0 para recomeçar");
                 repitir = int.Parse(Console.ReadLine());
-            } while (repitir == 0);
-            
-                       
-
+            } while (repitir == 0);                                   
         }
     }
-
 }

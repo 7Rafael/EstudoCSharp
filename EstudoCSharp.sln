@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoCSharp", "EstudoCSharp\EstudoCSharp.csproj", "{06FCE247-E57D-4B9E-9D3F-AA3C50BFC645}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstudoCSharp", "EstudoCSharp\EstudoCSharp.csproj", "{06FCE247-E57D-4B9E-9D3F-AA3C50BFC645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medida", "Medida\Medida.csproj", "{422998B7-40ED-401E-B00E-B5F10552905D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaIdade", "CalculaIdade\CalculaIdade.csproj", "{15FDE33C-CAF2-4F6A-A9CA-ED67F1C2D7BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{06FCE247-E57D-4B9E-9D3F-AA3C50BFC645}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06FCE247-E57D-4B9E-9D3F-AA3C50BFC645}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06FCE247-E57D-4B9E-9D3F-AA3C50BFC645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{422998B7-40ED-401E-B00E-B5F10552905D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422998B7-40ED-401E-B00E-B5F10552905D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422998B7-40ED-401E-B00E-B5F10552905D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422998B7-40ED-401E-B00E-B5F10552905D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15FDE33C-CAF2-4F6A-A9CA-ED67F1C2D7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FDE33C-CAF2-4F6A-A9CA-ED67F1C2D7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FDE33C-CAF2-4F6A-A9CA-ED67F1C2D7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FDE33C-CAF2-4F6A-A9CA-ED67F1C2D7BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
